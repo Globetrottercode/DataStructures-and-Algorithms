@@ -1,3 +1,7 @@
+//Partition Algorithm and Divide and Conquer Algorithm
+//Time Complexity - O(n2)
+//Space Complexity - O(n*logn)
+
 let arr = [1, 34, 78, 99, 45, 69, 36, 67, 89, 35, 56, 17];
 let arr1 = [2, 1];
 
